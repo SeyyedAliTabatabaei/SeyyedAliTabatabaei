@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seyyed-ali-tabatabaei-697415167)
 
 
-![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=AbolfaZlRezaEe&show_icons=true)
+![Munaf's github stats](https://github-readme-stats.vercel.app/api?username=alitabatabaei1381&show_icons=true)
 
 
 <!---
