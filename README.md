@@ -1,7 +1,7 @@
 ## Hi, I’m Seyyed Ali Tabatabaei 👋
 - 👀 I’m interested in programming
 - 🔭 I’m currently doing **Android programming** (Java & Kotlin)
-- 💞️ I’m looking to for remote cooperation
+- 💞️ I’m looking to for **remote** cooperation
 
 
 <!--Website -->
